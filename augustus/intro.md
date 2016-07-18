@@ -1,4 +1,7 @@
 # Introductie
 
-Dit is een gewone nieuwsbrief voor de Manjaro-NL leden.  Het is gewoon was lees materiaal voor diegene die bereid zijn om te lzen is het geweldig :)   Uiteindelijk hopelijk zal hieruit wel iets groeien via een nieuws mail edergelijke.
+Welkom bij dit nieuws brief voor de manjaro-nl gemeenschap. 
+Hopelijk kan hierbij brengen aan wat in's en out's op Manjaro. En kan groeien also Gemeenschap.
+
+
 
