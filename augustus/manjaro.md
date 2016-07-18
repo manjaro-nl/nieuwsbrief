@@ -25,4 +25,17 @@ er is een poging gedaan om Wiki op Discourse forum plaats te nemen terwijl dat n
 
 ## 5 Nu &  De toekomst?
 
-SSL is gefixed, De nieuwe site zal gebruik maken van Hugo Waardoor de toegang ook moderner word.
+SSL is gefixed, De nieuwe site zal gebruik maken van Hugo Waardoor de toegang ook moderner word. Het is nogal bezig maar een deze dagen zal het operationeel zijn. De gemeenschap is voor nu gespleten in twee gemeenschappen.
+Een die voor discourse is andere er tegen.  Het heeft merendeel te maken van verloop van de geschiedenis. Door de Mod's word 
+jammer genoeg te defensief gehandeld waardoor dingen nog erger word.
+
+Ene kant is, de wiki is terug. Discourse can blijven mij betreft! 
+
+Maar defensief handelen moet wel stoppen ene kant. Dat maakt juist alles kapot.
+
+Maar voor nu of toekomst zoiets zal altijd wel blijven, dat maakt de gemeenschap en ook breekt de gemeenschap beetje af.
+
+Het is een team met vrijwilligers waar weinig commercie tussen zit. Ergens kunnen we nog dankbaar zijn dat het geen commercieel
+distributie is. waar iedereen nog een plek kan hebben. Personelijke meningen kan gedebatteerd worden maar vroegtijdig afbreken toont soms aan dat het niet altijd goed is.
+
+
